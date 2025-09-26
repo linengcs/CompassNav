@@ -1,80 +1,22 @@
-# Academic Project Page Template
+<div align="center">
+<h3>CompassNav: Steering from Path Imitation to Decision Understanding in Navigation</h3>
 
-> **Update (September 2025)**: This template has been modernized with better design, SEO, and mobile support. For the original version, see the [original-version branch](https://github.com/eliahuhorwitz/Academic-project-page-template/tree/original-version).
+LinFeng Li `<sup>`1,2`</sup>`&nbsp;
+[Jian Zhao](https://scholar.google.com.sg/citations?hl=en&user=zdhRJCkAAAAJ&view_op=list_works&gmla=AJsN-F4PURIx5GMQHVpprJJBjTsNC62YCHjxGsKOwVhrkZ1aJsLgBiuKPBbAgbdcE5_KNw3OnLQgOVSjlqmS6gc-6ti0M2K5o-klHgoOywFCbdaaGnpis130zvgoZFJkVfmoNKpo8Krp) `<sup>`2`</sup>`&nbsp;
+[Yuan Xie](https://scholar.google.com/citations?user=RN1QMPgAAAAJ&hl=en) `<sup>`1`</sup>`&nbsp;
+[Xin Tan](https://scholar.google.com/citations?hl=zh-CN&user=UY4NCdcAAAAJ&view_op=list_works) `<sup>`1`</sup>`&nbsp;
+[Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en) `<sup>`2`</sup>`&nbsp;
 
-A clean, responsive template for academic project pages.
+`<sup>`1 `</sup>`East China Normal University; `<sup>`2 `</sup>`The Institute of Artificial Intelligence (TeleAI), China Telecom&nbsp;
 
+[![ArXiv](https://img.shields.io/badge/ArXiv-<2509.xxxx>-<COLOR>.svg)]() [![Webpage](https://img.shields.io/badge/Webpage-CompassNav-<COLOR>.svg)](https://linengcs.github.io/CompassNav/)
 
-Example project pages built using this template are:
-- https://horwitz.ai/probex
-- https://vision.huji.ac.il/probegen
-- https://horwitz.ai/mother
-- https://horwitz.ai/spectral_detuning
-- https://vision.huji.ac.il/ladeda
-- https://vision.huji.ac.il/dsire
-- https://horwitz.ai/podd
-- https://dreamix-video-editing.github.io
-- https://horwitz.ai/conffusion
-- https://horwitz.ai/3d_ads/
-- https://vision.huji.ac.il/ssrl_ad
-- https://vision.huji.ac.il/deepsim
+<p align="center">
+  <img src="assets/crop_compass.svg" width="600">>
+</p>
 
+</div>
 
+The top panel contrasts our End-to-End Goal Navigation paradigm with traditional approaches. Unlike Vision-Language Navigation (VLN), which relies on dense, step-by-step instructions, and complex Modular Navigation pipelines, CompassNav directly maps a high-level goal (e.g., "find the plant") to an action through integrated spatial logical reasoning.
 
-## Start using the template
-To start using the template click on `Use this Template`.
-
-The template uses html for controlling the content and css for controlling the style. 
-To edit the websites contents edit the `index.html` file. It contains different HTML "building blocks", use whichever ones you need and comment out the rest.  
-
-**IMPORTANT!** Make sure to replace the `favicon.ico` under `static/images/` with one of your own, otherwise your favicon is going to be a dreambooth image of me.
-
-## What's New
-
-- Modern, clean design with better mobile support
-- Improved SEO with proper meta tags and structured data
-- Performance improvements (lazy loading, optimized assets)
-- More Works dropdown
-- Copy button for BibTeX citations
-- Better accessibility
-
-## Components
-
-- Teaser video
-- Image carousel
-- YouTube video embedding
-- Video carousel
-- PDF poster viewer
-- BibTeX citation
-
-## Customization
-
-The HTML file has TODO comments showing what to replace:
-
-- Paper title, authors, institution, conference
-- Links (arXiv, GitHub, etc.)
-- Abstract and descriptions  
-- Videos, images, and PDFs
-- Related works in the dropdown
-- Meta tags for SEO and social sharing
-
-### Meta Tags
-The template includes meta tags for better search engine visibility and social media sharing. These appear in the `<head>` section and help with:
-- Google Scholar indexing
-- Social media previews (Twitter, Facebook, LinkedIn)
-- Search engine optimization
-
-Create a 1200x630px social preview image at `static/images/social_preview.png`.
-
-## Tips
-
-- Compress images with [TinyPNG](https://tinypng.com)
-- Use YouTube for large videos (>10MB)  
-- Replace the favicon in `static/images/`
-- Works with GitHub Pages
-
-## Acknowledgments
-Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page.
-
-## Website License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+The bottom panel details our core contribution-how to stimulate model reasoning ability: a paradigm shift from "Path Imitation" to "Decision Understanding." While traditional methods train agents to replicate a single expert trajectory and penalize any deviation, our agent learns to evaluate the relative quality of all feasible paths at each decision point. This approach cultivates a true "internal compass," enabling the agent to make more intelligent and flexible decisions in unseen environments.

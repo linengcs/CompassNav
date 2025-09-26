@@ -1,13 +1,9 @@
 <div align="center">
 <h3>CompassNav: Steering from Path Imitation to Decision Understanding in Navigation</h3>
 
-LinFeng Li `<sup>`1,2`</sup>`&nbsp;
-[Jian Zhao](https://scholar.google.com.sg/citations?hl=en&user=zdhRJCkAAAAJ&view_op=list_works&gmla=AJsN-F4PURIx5GMQHVpprJJBjTsNC62YCHjxGsKOwVhrkZ1aJsLgBiuKPBbAgbdcE5_KNw3OnLQgOVSjlqmS6gc-6ti0M2K5o-klHgoOywFCbdaaGnpis130zvgoZFJkVfmoNKpo8Krp) `<sup>`2`</sup>`&nbsp;
-[Yuan Xie](https://scholar.google.com/citations?user=RN1QMPgAAAAJ&hl=en) `<sup>`1`</sup>`&nbsp;
-[Xin Tan](https://scholar.google.com/citations?hl=zh-CN&user=UY4NCdcAAAAJ&view_op=list_works) `<sup>`1`</sup>`&nbsp;
-[Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en) `<sup>`2`</sup>`&nbsp;
+LinFeng Li <sup>1,2</sup>&nbsp;[Jian Zhao](https://scholar.google.com.sg/citations?hl=en&user=zdhRJCkAAAAJ&view_op=list_works&gmla=AJsN-F4PURIx5GMQHVpprJJBjTsNC62YCHjxGsKOwVhrkZ1aJsLgBiuKPBbAgbdcE5_KNw3OnLQgOVSjlqmS6gc-6ti0M2K5o-klHgoOywFCbdaaGnpis130zvgoZFJkVfmoNKpo8Krp) <sup>2</sup>&nbsp;[Yuan Xie](https://scholar.google.com/citations?user=RN1QMPgAAAAJ&hl=en) <sup>1</sup>&nbsp;[Xin Tan](https://scholar.google.com/citations?hl=zh-CN&user=UY4NCdcAAAAJ&view_op=list_works) <sup>1</sup>&nbsp;[Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en) <sup>2</sup>&nbsp;
 
-`<sup>`1 `</sup>`East China Normal University; `<sup>`2 `</sup>`The Institute of Artificial Intelligence (TeleAI), China Telecom&nbsp;
+<sup>1 </sup>East China Normal University; <sup>2 </sup>The Institute of Artificial Intelligence (TeleAI), China Telecom&nbsp;
 
 [![ArXiv](https://img.shields.io/badge/ArXiv-<2509.xxxx>-<COLOR>.svg)]() [![Webpage](https://img.shields.io/badge/Webpage-CompassNav-<COLOR>.svg)](https://linengcs.github.io/CompassNav/)
 

@@ -5,7 +5,7 @@ LinFeng Li <sup>1,2</sup>&nbsp;[Jian Zhao](https://scholar.google.com.sg/citatio
 
 <sup>1 </sup>East China Normal University; <sup>2 </sup>The Institute of Artificial Intelligence (TeleAI), China Telecom&nbsp;
 
-[![ArXiv](https://img.shields.io/badge/ArXiv-<2510.10154>-<COLOR>.svg)]() [![Webpage](https://img.shields.io/badge/Webpage-CompassNav-<COLOR>.svg)](https://linengcs.github.io/CompassNav/)[![Dataset](https://img.shields.io/badge/Dataset-CompassData-<COLOR>.svg)](https://huggingface.co/datasets/Lineng/CompassData)[![Model](https://img.shields.io/badge/Model-CompassNav7B-<COLOR>.svg)](https://huggingface.co/datasets/Lineng/CompassData)
+[![ArXiv](https://img.shields.io/badge/ArXiv-<2510.10154>-<COLOR>.svg)](https://arxiv.org/abs/2510.10154) [![Webpage](https://img.shields.io/badge/Webpage-CompassNav-<COLOR>.svg)](https://linengcs.github.io/CompassNav/)[![Dataset](https://img.shields.io/badge/Dataset-CompassData-<COLOR>.svg)](https://huggingface.co/datasets/Lineng/CompassData)[![Model](https://img.shields.io/badge/Model-CompassNav7B-<COLOR>.svg)](https://huggingface.co/datasets/Lineng/CompassData)
 
 <p align="center">
   <img src="assets/crop_compass.svg" width="600">>

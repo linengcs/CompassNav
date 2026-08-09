@@ -193,5 +193,5 @@ Please ensure your redistribution and usage follow the corresponding upstream li
 
 - [X] Release CompassNav training code
 - [X] Release CompassNav Object Goal Nav/Instance Image-Goal Nav test code
-- [ ] Release Compass-Data-22k
-- [ ] Release CompassNav-7B
+- [X] Release Compass-Data-22k
+- [X] Release CompassNav-7B
